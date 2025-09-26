@@ -73,7 +73,7 @@ The application is containerized using Docker with the following features:
 - Ubuntu 22.04 base image
 - Python environment setup
 - Ollama server integration
-- Exposed ports for Streamlit (8501) and Ollama (11434)
+- Exposed ports for Streamlit (mentioned in your system) and Ollama (mentioned in your system)
 
 ## Contributing
 
@@ -88,3 +88,4 @@ The application is containerized using Docker with the following features:
 This project is licensed under the MIT License.
 
 ---
+
